@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 80%;
+    height: 80%;
+    display: block;
+    margin: 3.1% auto;
+    background-color: #ffffff;
+    transition: background-color 1s;
+}
+
+.inner{
+    margin: 0 auto;
+    text-align: center;
+    padding: 20%;
+}
+
+input{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding: 2% 1%;
+    width: 50%;
+    text-align: center;
+    border: 0px;
+    background-color: #1111;
+}
+
+.random{
+    color: #a2a2a2;
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.random a{
+    color: #5a99f7 !important;
+}
